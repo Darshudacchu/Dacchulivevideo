@@ -1,0 +1,76 @@
+{
+    "name": "VC Video Player",
+    "description": "A VCVideoPlayer Bot for Telegram made with 💞 By @ProErrorXD",
+    "logo": "https://telegra.ph/file/e1be1a6fcb7f0e37c297f.jpg",
+    "keywords": [
+        "pytgcalls",
+        "Telegram Bot",
+        "Vidio Vc Steramer"
+    ],
+    "website": "https://t.me/DeeCodeBots",
+    "repository": "https://github.com/Sammy-XD/VcVideoPlayer",
+    "success_url": "https://t.me/DeeCodeBots",
+    "env": {
+        "API_ID": {
+            "description": "Your APP_ID from my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from my.telegram.org",
+            "required": true
+        },
+        "ADMIN": {
+            "description": "Your User Id",
+            "required": true
+        },
+        "CHANNEL": {
+            "description": "Your Channel User id",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "Put Your Assistant Username without @",
+            "required": true
+        },
+        "SUPPORT_GROUP": {
+            "description": "put your support group link without @",
+            "required": true
+        },
+        "UPDATES_CHANNEL": {
+            "description": "put your channel link without @",
+            "required": true
+        },
+        "SOURCE_CODE": {
+            "description": "put your GitHub link like this GitHub.com/Sammy-XD/VcVideoPlayer",
+            "required": true 
+        },
+        "BOT_USERNAME": {
+            "description": "Put your bot username",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Your bot token from @botfather",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "Put Your id",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "Pyrogram String Session",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}

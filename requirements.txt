@@ -1,0 +1,7 @@
+TgCrypto
+ffmpeg-python
+git+https://github.com/pyrogram/pyrogram@master
+py-tgcalls==0.8.0
+python-dotenv
+youtube_dl
+youtube-search-python
