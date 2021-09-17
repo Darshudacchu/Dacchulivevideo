@@ -1,7 +1,7 @@
 # VC Video Player
-
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/DeCodeSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="t.me/KA_11Mandya"><img src="https://img.shields.io/badge/Dacchu-1b77FF.svg?logo=telegram"></a>
+<a href="https://t.me/Dacchulive"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/Dacchulive"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ![logo](https://telegra.ph/file/824cba85b5b820fcd7dcd.jpg)
 # How To Host 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TeamDeeCode/VcVideoPlayer&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,BOT_USERNAME,ASSISTANT_NAME,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS,CHANNEL,ADMIN)
@@ -24,7 +24,6 @@ The easiest way to deploy this Bot is via Heroku.
 <a href="t.me/Pratheek_XD"><img src="https://img.shields.io/badge/Habibi-1b77FF.svg?logo=telegram"></a>
 <a href="https://t.me/imsafone"><img src="https://img.shields.io/badge/Safone-1b77FF.svg?logo=Telegram"></a>
 <a href="t.me/SammyXD"><img src="https://img.shields.io/badge/Sammy-1b77FF.svg?logo=telegram"></a>
-
 
 # Special Thanks To 💞
 
